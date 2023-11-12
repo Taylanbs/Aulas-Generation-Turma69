@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\tayla\Desktop\Aula Generation-GitHub\ATIVIDADE PRÁTICA – JAVA -Variaveis e Operadores\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1167041775.index
+3815574332.index

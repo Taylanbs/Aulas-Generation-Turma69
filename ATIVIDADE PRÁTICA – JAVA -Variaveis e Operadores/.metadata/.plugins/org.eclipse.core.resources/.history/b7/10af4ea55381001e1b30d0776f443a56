@@ -1,0 +1,14 @@
+package exercicios;
+
+import java.util.Scanner;
+
+public class AtividadeUm {
+
+	public static void main(String[] args) {
+		double salario = 10000.00;
+		Scanner leia = 
+		
+
+	}
+
+}
