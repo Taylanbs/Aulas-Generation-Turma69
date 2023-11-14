@@ -1,0 +1,79 @@
+package ExerciciosLacosCondicionais;
+
+import java.util.Scanner;
+
+public class Exercicio1Lista2 {
+
+	public static void main(String[] args) {
+		
+		int codProd, qtd, preco = 0, total;
+		
+		Scanner leia = new Scanner(System.in);
+		
+		System.out.println("\n\t Cardápio");
+		
+		System.out.println("\n1 - Cachorro Quente - R$12,00");
+		
+		System.out.println("\n2 - X-Salada - R$22,00");
+		
+		System.out.println("\n3- X-Bacon - R$27,00");
+		
+		System.out.println("\n4 - Bauru - R$14,00");
+		
+		System.out.println("\n5 - Refrigerante - R$7,00");
+		
+		System.out.println("\n6 - Suco de Laranja - R$8,00");
+		
+		System.out.println("\n1Escolha a sua opção do cardápio: ");
+		
+		codProd = leia.nextInt();
+		
+		switch(codProd) {
+		case 1:
+			System.out.println("\n1 - Cachorro Quente - R$12,00");
+			preco = 12;
+			break;
+		case 2:
+			System.out.println("\n2 - X-Salada - R$22,00");
+			preco = 22;
+			break;
+		case 3:
+			System.out.println("\n 3- X-Bacon - R$27,00");
+			preco = 27;
+			break;
+		case 4:
+			System.out.println("\n4 - Bauru - R$14,00");
+			preco = 14;
+			break;
+		case 5:
+			System.out.println("\n5 - Refrigerante - R$7,00");
+			preco = 7;
+			break;
+		case 6:
+			System.out.println("\n6 - Suco de Laranja - R$8,00");
+			preco = 8;
+			break;
+			default:
+			System.out.println("\n - Escolha um item do cardápio");
+			
+		System.out.println("\nQuantidade: ");
+		
+		qtd = leia.nextInt();
+		
+		total = qtd*preco;
+		
+		System.out.println("\nValor Total de"+total);
+
+		
+
+
+			
+			
+		}
+
+		
+		
+
+	}
+
+}
