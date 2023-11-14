@@ -1,3 +1,4 @@
 INDEX VERSION 1.134+C:\Users\tayla\Desktop\PraticaGeneration\Aulas-Generation-Turma69\ATIVIDADE PRÁTICA – JAVA -Variaveis e Operadores\.metadata\.plugins\org.eclipse.jdt.core
 1167041775.index
 1865797976.index
+3815574332.index
