@@ -7,7 +7,6 @@ public class ExercicioLista2 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 
-        
         int totalMenor21 = 0;
         int totalMaior50 = 0;
 
